@@ -1,0 +1,31 @@
+h1 a {
+	color: #d61d1d;
+	font-family: 'Lobster';
+}
+
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+.content  {
+	margin: 0 auto;
+	max-width: 1200px;
+}
+
+.header {
+	background-color: #ff9400;
+	margin-top: 0px;
+	padding: 20px 20px 20px 40px;
+}
+
+.header h1 {
+	color: #ffffff;
+	font-size: 12em;
+	text-decoration: none;
+}
+
+.posts {
+	
+	padding: 10px;
+
