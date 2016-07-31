@@ -4,4 +4,4 @@ myvenv
 db.sqlite3
 /static
 .DS_Store
-ml4/settings.py
+/ml4/settings.py
